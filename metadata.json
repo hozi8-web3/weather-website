@@ -1,0 +1,7 @@
+{
+  "name": "Futuristic Weather Dashboard",
+  "description": "A sleek, futuristic weather dashboard that provides real-time weather data, 5-day forecasts, and air quality information. It features animated backgrounds and weather effects that change based on current conditions and time of day.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
